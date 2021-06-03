@@ -2,4 +2,8 @@
     <string name="app_name">firstMobileApp</string>
     <string name="invalid_name">Please enter a valid name</string>
     <string name="invalid_mobile">Please enter a valid number mobile</string>
+    <string name="invalid_email">Please enter a valid email</string>
+    <string name="invalid_website">Please enter a valid website</string>
+    <string name="invalid_password">Enter 6 digit</string>
+    <string name="invalid_confirm_password">Password does not match</string>
 </resources>
