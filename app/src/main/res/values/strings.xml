@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firstMobileApp</string>
+    <string name="invalid_name">Please enter a valid name</string>
+    <string name="invalid_mobile">Please enter a valid number mobile</string>
+</resources>
